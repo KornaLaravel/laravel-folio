@@ -1,6 +1,18 @@
 # Release Notes
 
-## [Unreleased](https://github.com/laravel/folio/compare/v1.1.17...master)
+## [Unreleased](https://github.com/laravel/folio/compare/v1.1.18...master)
+
+## [v1.1.18](https://github.com/laravel/folio/compare/v1.1.17...v1.1.18) - 2026-04-27
+
+### What's Changed
+
+* Fix Blade directive syntax for route helpers by [@danielh-official](https://github.com/danielh-official) in https://github.com/laravel/folio/pull/162
+
+### New Contributors
+
+* [@danielh-official](https://github.com/danielh-official) made their first contribution in https://github.com/laravel/folio/pull/162
+
+**Full Changelog**: https://github.com/laravel/folio/compare/v1.1.17...v1.1.18
 
 ## [v1.1.17](https://github.com/laravel/folio/compare/v1.1.16...v1.1.17) - 2026-04-17
 
